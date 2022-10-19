@@ -8,8 +8,8 @@ for(let i=0;i<=num;i++){
     }
     
 }
-if(count==1){
-    console.log(Yes)
+if(count==2){
+    console.log("Yes")
 }else{
-    console.log(No)
+    console.log("No")
 }
